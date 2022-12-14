@@ -15,3 +15,4 @@ curl \
 ```
 
 3. Go to RabbitMQ awesome dashboard [localhost:15672](http://localhost:15672) and see `QueueService1` queue with sent messages:
+![screen](https://github.com/jknottss/rabbitMQ-fiber-example/blob/main/sample.png)
